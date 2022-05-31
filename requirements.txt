@@ -1,0 +1,11 @@
+altair
+pandas
+streamlit==1.9.0
+scikit-learn
+seaborn
+numpy
+graphviz
+pip
+csv
+python3.8
+sklearn.tree
